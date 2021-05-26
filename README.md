@@ -15,5 +15,5 @@ Python libraries:Pandas,numpy
 ## Support and contact details
 Contact Information will be given on this link https://moringaschool.com/courses
 
-Copyright (c) 2021 **{}**
+Copyright (c) 2021 **Elveena,George,Maureen,Lucy,Idriss,Greg**
   
