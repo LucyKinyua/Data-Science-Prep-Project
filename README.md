@@ -2,7 +2,7 @@
 #### A data science project about Kenya Accidents, 26/05/2021
 #### By **Elveena,George,Maureen,Lucy,Idriss,Greg**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+A project that shows which roads in Kenya are more prone to having accidents and what time of the day it happens
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
